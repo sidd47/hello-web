@@ -1,0 +1,36 @@
+/* comments*/
+body {
+    font-family: Bahnschrift Light;
+   /* */
+    background-image:url('Image/blurred-wallpaper-1.jpg');
+    background-color: limegreen;
+    
+}
+
+h3 {
+    color : purple;
+    font-family : MS UI Gothic;
+}
+
+h1 {
+    color: darkred;
+    font-family: fantasy;
+    text-align: center;
+}
+
+/*header {
+    background-color:lightskyblue;
+}*/
+
+.goals {
+    background-color: transparent;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .picture {
+    width: 20em;
+    float: right;
+  }
